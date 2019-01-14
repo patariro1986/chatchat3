@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "89770480327",
+    "firebase_url": "https://chatchat-98cef.firebaseio.com",
+    "project_id": "chatchat-98cef",
+    "storage_bucket": "chatchat-98cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89770480327:android:a0dc586f44612a77",
+        "android_client_info": {
+          "package_name": "jp.co.teikoku.takenori.chatchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89770480327-dvu7ql3mnqlf97bqpadff03q8v0kugq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.co.teikoku.takenori.chatchat",
+            "certificate_hash": "4ba3ca6c704e1f77bf0aab16683d7fca4db7a36d"
+          }
+        },
+        {
+          "client_id": "89770480327-v9518g5ubfml7edhi5ktasv7rb2b68k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWMrZKCN7xTt8l5a1iNlRhPWfM8_Oz-io"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89770480327-v9518g5ubfml7edhi5ktasv7rb2b68k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

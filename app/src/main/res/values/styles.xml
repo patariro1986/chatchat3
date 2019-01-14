@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="btnStyle">
+        <item name="android:textColor">#333333</item>
+    </style>
+    <style name="Edittextlayout_first">
+        <item name="android:textColorHint">#cacaca</item>
+    </style>
+    <style name="Edittext_first">
+        <item name="android:backgroundTint">#ffffff</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColorHighlight">#caca11</item>
+    </style>
+    <style name="Edittextlayout_setting">
+        <item name="android:textColorHint">#636363</item>
+    </style>
+    <style name="Edittext_setting">
+        <item name="android:backgroundTint">#2e2e2e</item>
+        <item name="android:textColor">#2e2e2e</item>
+        <item name="android:textColorHighlight">#ff3333</item>
+    </style>
+
+    <style name="Base_card">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+    <style name="Comments_card">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginTop">1dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginBottom">1dp</item>
+    </style>
+</resources>
